@@ -25,7 +25,7 @@
   "accentColor": "#FFCCD8",
   "bots": [
     {
-      "botId": "a62c4908-0e7e-4bb2-ad5c-b38c61f6f263",
+      "botId": "23cafdc0-e805-44e0-ae6d-697c36990d48",
       "scopes": [
         "team"
       ],
@@ -51,6 +51,6 @@
     }
   ],
   "validDomains": [
-    "New_Scrum_Test.azurewebsites.net"
+    "ScrumsforchannelsTest.azurewebsites.net"
   ]
 }
