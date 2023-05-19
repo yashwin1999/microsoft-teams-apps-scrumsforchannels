@@ -6,9 +6,9 @@
   "packageName": "com.microsoft.teams.scrumsforchannels",
   "developer": {
     "name": "Suncor",
-    "websiteUrl": "<<websiteUrl>>",
-    "privacyUrl": "<<privacyUrl>>",
-    "termsOfUseUrl": "<<termsOfUseUrl>>"
+    "websiteUrl": "https://www.suncor.com/",
+    "privacyUrl": "https://www.suncor.com/",
+    "termsOfUseUrl": "https://www.suncor.com/"
   },
   "icons": {
     "color": "color.png",
@@ -25,7 +25,7 @@
   "accentColor": "#FFCCD8",
   "bots": [
     {
-      "botId": "<<botId>>",
+      "botId": "a62c4908-0e7e-4bb2-ad5c-b38c61f6f263",
       "scopes": [
         "team"
       ],
@@ -51,6 +51,6 @@
     }
   ],
   "validDomains": [
-    "<<valid domains>>"
+    "New_Scrum_Test.azurewebsites.net"
   ]
 }
